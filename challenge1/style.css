@@ -1,34 +1,24 @@
-
-body{
-    background-color: rgb(26, 5, 46);
-    font-family: 'Permanent Marker', cursive;
-
+body {
+  background-color: rgb(26, 5, 46);
+  font-family: "Permanent Marker", cursive;
 }
 .image {
-display: flex;
-justify-content: center;
-
-
+  display: flex;
+  justify-content: center;
 }
 
-.title{
-    color: white;
-    display: flex;
-    justify-content: center;
-    font-family: 'Permanent Marker', cursive;
-
-    
-    
-    
+.title {
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-family: "Permanent Marker", cursive;
 }
 
 .story {
-    color: white;
-    display: flex;
-    justify-content:center; 
-    text-align: center;
-    margin-left: 10%;
-    margin-right: 10%;
-
-
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
 }
